@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi 👋, I'm Ilya </h1>
 
-<h3 align="center">A passionate frontend developer from Belarus</h3>
+<h3 align="center">A passionate Fullstack developer from Belarus</h3>
 
 - 🔭 I’m currently working on [F1-site](https://github.com/Burur1ch/F1-site)
 
