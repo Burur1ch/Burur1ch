@@ -12,15 +12,15 @@
 
 <h3 align="center">A passionate Fullstack developer from Belarus</h3>
 
-- 🔭 I’m currently working on [F1-site](https://github.com/Burur1ch/F1-site)
+- 🔭 I’m currently working on project [eComm](https://github.com/Burur1ch/eComm)
 
-- 🌱 I’m currently learning **Nuxt3 and Next**
+- 🌱 I’m currently practicing Next
 
 - 👯 I’m looking to collaborate on **Any projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Burur1ch?tab=repositories](https://github.com/Burur1ch?tab=repositories)
 
-- 💬 Ask me about **React, Nuxt, Vue**
+- 💬 Ask me about **React, Next, Vue**
 
 - 📫 How to reach me **Burur1chDev@yandex.ru**
 
@@ -31,16 +31,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Burur1ch&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=10&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Burur1ch&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=11&theme=dracula&hide_border=false" height="300" alt="languages graph"  />
 </div>
 
 ###
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/burur1ch/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://mail.ru/irresistible0@mail.ru"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
 </div>
 
 ![snake gif](https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg)
