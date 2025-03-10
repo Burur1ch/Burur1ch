@@ -14,8 +14,6 @@
 
 - 🔭 I’m currently working on project [eComm](https://github.com/Burur1ch/eComm)
 
-- 🌱 I’m currently practicing Next
-
 - 👯 I’m looking to collaborate on **Any projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Burur1ch?tab=repositories](https://github.com/Burur1ch?tab=repositories)
